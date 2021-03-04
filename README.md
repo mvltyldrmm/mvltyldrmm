@@ -1,5 +1,4 @@
 ### Hi there 👋
-![views](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif)
 <!--
 **mvltyldrmm/mvltyldrmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
