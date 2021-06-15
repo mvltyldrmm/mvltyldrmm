@@ -1,8 +1,5 @@
 ### Hi there 👋
-<br>
-<br/>
-<hr>
-<hr/>
+
 <!--
 **mvltyldrmm/mvltyldrmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
