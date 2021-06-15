@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
-
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/mvltyldrm/)
 [<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://mvltyldrm.medium.com)
+<br />
+
+[<img align="left" alt="Medium" width="80" src="https://raw.githubusercontent.com/mvltyldrmm/mvltyldrmm/main/nodejs_original_wordmark_logo_icon_146412.ico
+" />](https://mvltyldrm.medium.com)
 <br />
 
 <br>
