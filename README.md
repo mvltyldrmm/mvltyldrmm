@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <br>
 
-![Hua's github stats](https://github-readme-stats.vercel.app/api?username=mvltyldrmm-2-2&show_icons=true&theme=chartreuse-dark)
+![Hua's github stats](https://github-readme-stats.vercel.app/api?username=mvltyldrmm&show_icons=true&theme=chartreuse-dark)
