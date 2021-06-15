@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://mvltyldrm.medium.com)
 <br />
 
-[<img align="left" alt="Medium" width="80" src="https://raw.githubusercontent.com/mvltyldrmm/mvltyldrmm/main/nodejs_original_wordmark_logo_icon_146412.ico
-" />](https://mvltyldrm.medium.com)
-<br />
-
 <br>
 
 ![Hua's github stats](https://github-readme-stats.vercel.app/api?username=mvltyldrmm&show_icons=true&theme=chartreuse-dark)
