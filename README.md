@@ -9,7 +9,6 @@
 
 ![Hua's github stats](https://github-readme-stats.vercel.app/api?username=mvltyldrmm&show_icons=true&theme=chartreuse-dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvltyldrmm)](https://github.com/mvltyldrmm/github-readme-stats)
 <!--
 **mvltyldrmm/mvltyldrmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
