@@ -9,7 +9,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvltyldrmm&hide=contribs,prs)
 
-<hr>
 ![](https://komarev.com/ghpvc/?username=mvltyldrmm)
 
 <!--
