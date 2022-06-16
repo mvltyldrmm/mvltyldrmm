@@ -13,12 +13,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvltyldrmm&hide=contribs,prs)
 
-![](https://komarev.com/ghpvc/?username=mvltyldrmm)
 
 <!--
 **mvltyldrmm/mvltyldrmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=mvltyldrmm)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
