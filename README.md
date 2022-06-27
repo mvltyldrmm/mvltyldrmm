@@ -14,7 +14,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvltyldrmm&hide=contribs,prs)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtrkn&layout=compact&theme=active" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvltyldrmm&layout=compact&theme=active" />
 </a>
 
 <!--
