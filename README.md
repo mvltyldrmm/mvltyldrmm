@@ -13,7 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvltyldrmm&hide=contribs,prs)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvltyldrmm&repo=github-readme-stats)](https://github.com/mvltyldrmm/mvltyldrmm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvltyldrmm&repo=github-readme-stats)]
 
 <!--
 **mvltyldrmm/mvltyldrmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
