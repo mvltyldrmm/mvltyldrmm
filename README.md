@@ -77,10 +77,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mvltyldrmm/mvltyldrmm/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
-
 ---
 
 <div align="center">
