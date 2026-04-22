@@ -16,7 +16,7 @@
       <ul>
         <li>🚀 <b>Software Engineer</b> specializing in robust backend architectures.</li>
         <li>🏗️ Building high-performance systems with <b>Go, Node.js, and Python</b>.</li>
-        <li>🐳 Expert in <b>Docker, Kubernetes, and Linux</b> environments.</li>
+        <li>🐳 Expert in <b>Docker and Linux</b> environments.</li>
         <li>🤖 Passionate about <b>AI integration</b> and <b>Data Science</b> in production.</li>
         <li>⚡ Focused on writing clean, maintainable, and scalable code.</li>
       </ul>
